@@ -2,7 +2,7 @@
 
 use CodeIgniter\Model;
 
-class Model_personal extends Model
+class model_personal extends Model
 {
     
     protected $table    = 'review';
@@ -14,10 +14,6 @@ class Model_personal extends Model
     protected $allowedFields = ['nombre_juego','recomendacion','observacion'];
 
     protected $useTimestamps = false;
-
-    protected $validationRules = [];
-    protected $validationMessages = [];
-    protected $skipValidation = false;
     
     public function getAll()
     {

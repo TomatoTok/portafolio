@@ -19,11 +19,9 @@ class Personal extends BaseController
     }
     public function juegos()
     {
-        return view('partials/header').view('personal/juegos').view('partials/footer');
+        $model = model('Model_games');
+        $data['games'] = $model->findAll();
+        return view('partials/header').view('personal/juegos',$data).view('partials/footer');
     }
-    public function addGames()
-    {
-        return view('partials/header').view('personal/hidden/add_games').view('partials/footer');
-        
-    }
+
 }

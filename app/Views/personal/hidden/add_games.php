@@ -1,6 +1,6 @@
 <div class="container">
-        <div class="card" style="margin-top: 20px;">
-            <form action="" method="post">
+    <div class="card" style="margin-top: 5%;">
+        <form action="" method="post">
             <div class="card-header">
                 <h4>Carga de Juegos:</h4>
             </div>
@@ -25,7 +25,19 @@
                     <label for="">Foto</label>
                     <div class="picture" style="padding:50px; border:1px solid black;"></div>
                 </div>
-            </form>
-        </div>
+                <div class="col col-12 right">
+                    <input type="submit" class="btn btn-primary" value="Cargar">
+                </div>
+            </div>
+
+        </form>
     </div>
 </div>
+<style>
+    .right{
+        margin-top: 20px;
+        align-items: flex-end!important;
+        justify-content: end;
+        text-align: end;
+    }
+</style>
