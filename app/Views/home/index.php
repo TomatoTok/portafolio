@@ -60,4 +60,5 @@
 <!-- end of contact section -->
 <section><!-- start modals creation -->
 <?php echo view('projects/project_1'); ?>
+<?php echo view('projects/project_2'); ?>
 </section><!-- the end of modalegion -->

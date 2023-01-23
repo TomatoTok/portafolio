@@ -1,0 +1,42 @@
+    .img_carrousel {
+        height: 400px;
+    }
+
+    .item_carrousel {
+        text-align: center;
+    }
+
+    .container_modal {
+        margin: 20px 150px;
+    }
+
+    .control-look {
+        border: none;
+        background-color: transparent;
+        color: gray;
+    }
+
+    .next-style {
+        border-radius: 50%;
+        background-color: gray;
+        padding: 5px;
+    }
+
+    .modal-body-carr {
+        padding: 5px 100px;
+    }
+
+    @media screen and (max-width: 900px) {
+        .container_modal {
+            margin: 20px;
+        }
+
+        .img_carrousel {
+            height: 25vh;
+        }
+
+        .modal-body-carr {
+            padding: 15px;
+
+        }
+    }

@@ -16,12 +16,12 @@
                 </a>
             </div>
             <div class="col-md-4">
-                <a href="#" class="portfolio-card">
-                    <img class="portfolio-card-img" src="assets/images/folio-2.jpg" class="img-responsive rounded" alt="">
+                <a href="#project_2" class="portfolio-card" data-toggle="modal" data-target="#project_2">
+                    <img class="portfolio-card-img" src="assets/images/project2/init.png" class="portofolio-card-img" alt="Leon from resident evil 4">
                     <span class="portfolio-card-overlay">
                         <span class="portfolio-card-caption">
-                            <h4>Web Designing</h5>
-                                <p class="font-weight-normal">Category: Web Templates</p>
+                            <h4>Resident Evil 4 FanPage</h5>
+                                <p class="font-weight-normal">Entorno: HTML5,CSS</p>
                         </span>
                     </span>
                 </a>
