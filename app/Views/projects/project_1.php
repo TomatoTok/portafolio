@@ -42,7 +42,7 @@
             </div>
             <div class="container_modal">
                 <h5>DESCRIPCIÓN:</h5>
-                <label for="">Se trata de un programa diseñado en java para almacenar toda la informacion sobre cuentas, correos, usuarios, contraseñas, etc. Pensado en una base de datos local generada en txt cifrada para su maxima proteccion.</label>
+                <label for="">Se trata de un programa diseñado en java para almacenar toda la informacion sobre cuentas, correos, usuarios, contraseñas, etc. Pensado en una base de datos local generada en txt con cifrado doble para su maxima proteccion.</label>
                 <h5>LINKS</h5>
                 <label for=""><b>GitHub repository:</b> <a href="https://github.com/TomatoTok/Gup" target="_blank"> Github.com/TomatoTok/Gup</a></label>
                 <br>

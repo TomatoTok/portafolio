@@ -61,4 +61,7 @@
 <section><!-- start modals creation -->
 <?php echo view('projects/project_1'); ?>
 <?php echo view('projects/project_2'); ?>
+<?php echo view('projects/project_3'); ?>
+<?php echo view('projects/project_4'); ?>
+<?php echo view('projects/project_5'); ?>
 </section><!-- the end of modalegion -->

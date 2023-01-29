@@ -3,7 +3,7 @@
     <div class="modal-dialog modal-xl">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="project_2Label">FanPage Resident Evil 4</h5>
+                <h5 class="modal-title" id="project_2Label">Resident Evil 4 Fan Page</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
@@ -46,7 +46,7 @@
                 <h5>LINKS</h5>
                 <label for=""><b>GitHub repository:</b> <a href="https://github.com/TomatoTok/Re4-page" target="_blank"> Github.com/TomatoTok/RE4</a></label>
                 <br>
-                <label for=""><b>CodePen Documentacion:</b> <a href="https://tomatotok.github.io/Re4-page/index.html" target="_blank"> Tomatotok.github.io/RE4</a></label>
+                <label for=""><b>Página Web:</b> <a href="https://tomatotok.github.io/Re4-page/index.html" target="_blank"> Tomatotok.github.io/RE4</a></label>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>

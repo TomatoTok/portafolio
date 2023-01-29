@@ -10,7 +10,7 @@
                     <span class="portfolio-card-overlay">
                         <span class="portfolio-card-caption">
                             <h4>Gestor de Usuarios Personal</h5>
-                                <p class="font-weight-normal">Entorno: Java, JFrame</p>
+                                <p class="font-weight-normal"><b>Entorno:</b> Java, JFrame</p>
                         </span>
                     </span>
                 </a>
@@ -20,23 +20,47 @@
                     <img class="portfolio-card-img" src="assets/images/project2/init.png" class="portofolio-card-img" alt="Leon from resident evil 4">
                     <span class="portfolio-card-overlay">
                         <span class="portfolio-card-caption">
-                            <h4>Resident Evil 4 FanPage</h5>
-                                <p class="font-weight-normal">Entorno: HTML5,CSS</p>
+                            <h4>Resident Evil 4 Fan Page</h5>
+                                <p class="font-weight-normal"><b>Entorno:</b> HTML5,CSS</p>
                         </span>
                     </span>
                 </a>
             </div>
             <div class="col-md-4">
-                <a href="#" class="portfolio-card">
-                    <img class="portfolio-card-img" src="assets/images/folio-3.jpg" class="img-responsive rounded" alt="">
+                <a href="#project_3" class="portfolio-card" data-toggle="modal" data-target="#project_3">
+                    <img class="portfolio-card-img" src="assets/images/project3/init.jpg" class="img-responsive rounded" alt="Codigo QR">
                     <span class="portfolio-card-overlay">
                         <span class="portfolio-card-caption">
-                            <h4>Web Designing</h5>
-                                <p class="font-weight-normal">Category: Web Templates</p>
+                            <h4>Generador QR</h5>
+                                <p class="font-weight-normal"><b>Entorno:</b> HTML5,CSS3,JS</p>
+                        </span>
+                    </span>
+                </a>
+            </div>
+        </div><!-- end of row -->
+        <div class="row pt-3">
+            <div class="col-md-4">
+                <a href="#project_4" class="portfolio-card" data-toggle="modal" data-target="#project_4">
+                    <img class="portfolio-card-img" src="assets/images/project4/init.png" class="img-responsive rounded" alt="Codigo QR">
+                    <span class="portfolio-card-overlay">
+                        <span class="portfolio-card-caption">
+                            <h4>Geoposicionamiento</h5>
+                                <p class="font-weight-normal"><b>Entorno:</b> HTML5,CSS3,JS , PHP,MySql,Google</p>
+                        </span>
+                    </span>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="#project_5" class="portfolio-card" data-toggle="modal" data-target="#project_5">
+                    <img class="portfolio-card-img" src="assets/images/project5/init.jpg" class="img-responsive rounded" alt="Codigo QR">
+                    <span class="portfolio-card-overlay">
+                        <span class="portfolio-card-caption">
+                            <h4>Shoji Meguro Fan Page</h5>
+                                <p class="font-weight-normal"><b>Entorno:</b> HTML5,CSS3,JS , PHP,MySql,Google</p>
                         </span>
                     </span>
                 </a>
             </div>
         </div><!-- end of row -->
     </div><!-- end of container -->
-</section> 
+</section>
