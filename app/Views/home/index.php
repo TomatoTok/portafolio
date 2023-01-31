@@ -35,6 +35,10 @@
 <?php echo view('home/components/service'); ?>
 <!-- end of service section -->
 
+<!-- skills section -->
+<?php echo view('home/components/skills') ?>
+<!-- end of skills section -->
+
 <!-- portfolio section -->
 <?php echo view('home/components/portofolio') ?>
 <!-- end of portfolio section -->
@@ -64,4 +68,6 @@
 <?php echo view('projects/project_3'); ?>
 <?php echo view('projects/project_4'); ?>
 <?php echo view('projects/project_5'); ?>
+<?php echo view('projects/project_6'); ?>
+<?php echo view('projects/project_7'); ?>
 </section><!-- the end of modalegion -->

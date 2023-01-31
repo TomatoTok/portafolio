@@ -6,10 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Tomas Bascal developer">
     <meta name="author" content="Tomas Bascal">
+    <link href="assets/images/favicon.jpg" rel="icon">
+    <link href="assets/images/apple-touch-icon.jpg" rel="apple-touch-icon">
     <title>Tomas Bascal | Home</title>
     <!-- font icons -->
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <!-- Bootstrap + Meyawo main styles -->
+
     <link rel="stylesheet" href="assets/css/meyawo.css">
     <link rel="stylesheet" href="assets/css/modal-tom.css">
 </head>
