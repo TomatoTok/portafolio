@@ -87,4 +87,5 @@
     <?php echo view('projects/project_5'); ?>
     <?php echo view('projects/project_6'); ?>
     <?php echo view('projects/project_7'); ?>
+    <?php echo view('projects/project_8'); ?>
 </section><!-- the end of modalegion -->

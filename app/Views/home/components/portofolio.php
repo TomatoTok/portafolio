@@ -88,7 +88,7 @@
             </div>
             <div class="col-md-4">
                 <a href="#project_8" class="portfolio-card" data-toggle="modal" data-target="#project_8">
-                    <img class="portfolio-card-img" src="assets/images/project6/init.jpg" class="img-responsive rounded" alt="Codigo QR">
+                    <img class="portfolio-card-img" src="assets/images/project8/init.png" class="img-responsive rounded" alt="">
                     <span class="portfolio-card-overlay">
                         <span class="portfolio-card-caption">
                             <h4>Otros Proyectos</h4>
