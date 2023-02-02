@@ -3,14 +3,17 @@
         <footer class="footer">
             <p class="mb-0">Copyright <script>
                     document.write(new Date().getFullYear())
-                </script> &copy; <a href="http://www.devcrud.com">DevCRUD</a></p>
-            <div class="social-links text-right m-auto ml-sm-auto">
-                <a href="javascript:void(0)" class="link"><i class="ti-facebook"></i></a>
-                <a href="javascript:void(0)" class="link"><i class="ti-twitter-alt"></i></a>
-                <a href="javascript:void(0)" class="link"><i class="ti-google"></i></a>
-                <a href="javascript:void(0)" class="link"><i class="ti-pinterest-alt"></i></a>
-                <a href="javascript:void(0)" class="link"><i class="ti-instagram"></i></a>
-                <a href="javascript:void(0)" class="link"><i class="ti-rss"></i></a>
+                </script> &copy; <a href="https://linktr.ee/tomasbascal" target="_blank">Tomas Bascal</a></p>
+            <div class=" text-right m-auto ml-sm-auto"> <!--class = "social-links" -->
+                <a class="link" style="color:#695aa6;" href="https://linktr.ee/tomasbascal" target="_blank"><i class="fa fa-chain"></i> <b> Social Links</b></a>
+                <?php if (false) { ?>
+                    <a href="javascript:void(0)" class="link"><i class="ti-facebook"></i></a>
+                    <a href="javascript:void(0)" class="link"><i class="ti-twitter-alt"></i></a>
+                    <a href="javascript:void(0)" class="link"><i class="ti-google"></i></a>
+                    <a href="javascript:void(0)" class="link"><i class="ti-pinterest-alt"></i></a>
+                    <a href="javascript:void(0)" class="link"><i class="ti-instagram"></i></a>
+                    <a href="javascript:void(0)" class="link"><i class="ti-rss"></i></a>
+                <?php } ?>
             </div>
         </footer>
     </div> <!-- end of page footer -->
@@ -22,8 +25,8 @@
     <!-- bootstrap 3 affix -->
     <script src="assets/vendors/bootstrap/bootstrap.affix.js"></script>
 
-    <!-- Meyawo js -->
-    <script src="assets/js/meyawo.js"></script>
+    <!-- template js -->
+    <script src="assets/js/template.js"></script>
 
     </body>
 

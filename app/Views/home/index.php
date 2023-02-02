@@ -10,6 +10,16 @@
     </div>
 </header><!-- end of page header -->
 
+<style>
+    
+    #img-prom {
+        border-radius: 50%;
+        border: 30px solid #ffde59;
+        width: 80%;
+        height: 320px;
+    }
+</style>
+
 <!-- about section -->
 <section class="section pt-0" id="about">
     <!-- container -->
@@ -17,7 +27,7 @@
         <!-- about wrapper -->
         <div class="about">
             <div class="about-img-holder">
-                <img src="assets/images/man.png" class="about-img" alt="yang wen li, The legend of the galactic heroes character">
+                <img src="assets/images/man.jpg" style="border-radius: 50%;" class="about-img" id="img-prom" alt="yang wen li, The legend of the galactic heroes character">
             </div>
             <div class="about-caption">
                 <h2 class="section-title mb-3">Sobre m&iacute;</h2>
@@ -43,31 +53,38 @@
 <?php echo view('home/components/portofolio') ?>
 <!-- end of portfolio section -->
 
+<!-- company section -->
+<?php echo view('home/components/experience') ?>
+<!-- end of company section -->
+
 <!-- hobby section -->
 <?php echo view('home/components/hobby') ?>
 <!-- end of hobby section -->
 
 <!-- bar section -->
-<?php echo view('home/components/bar') ?>
+<?php //echo view('home/components/bar') 
+?>
 <!-- end of section -->
 
 <!-- testimonial section -->
-<?php echo view('home/components/testimonial') ?>
- <!-- end of testimonial section -->
+<?php //echo view('home/components/testimonial') 
+?>
+<!-- end of testimonial section -->
 
 <!-- blog section -->
-<?php echo view('home/components/blog') ?>
+<?php //echo view('home/components/blog') 
+?>
 <!-- end of blog section -->
 
 <!-- contact section -->
 <?php echo view('home/components/contact') ?>
 <!-- end of contact section -->
 <section><!-- start modals creation -->
-<?php echo view('projects/project_1'); ?>
-<?php echo view('projects/project_2'); ?>
-<?php echo view('projects/project_3'); ?>
-<?php echo view('projects/project_4'); ?>
-<?php echo view('projects/project_5'); ?>
-<?php echo view('projects/project_6'); ?>
-<?php echo view('projects/project_7'); ?>
+    <?php echo view('projects/project_1'); ?>
+    <?php echo view('projects/project_2'); ?>
+    <?php echo view('projects/project_3'); ?>
+    <?php echo view('projects/project_4'); ?>
+    <?php echo view('projects/project_5'); ?>
+    <?php echo view('projects/project_6'); ?>
+    <?php echo view('projects/project_7'); ?>
 </section><!-- the end of modalegion -->

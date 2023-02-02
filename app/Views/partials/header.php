@@ -11,9 +11,9 @@
     <title>Tomas Bascal | Home</title>
     <!-- font icons -->
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
-    <!-- Bootstrap + Meyawo main styles -->
+    <!-- Bootstrap + template main styles -->
 
-    <link rel="stylesheet" href="assets/css/meyawo.css">
+    <link rel="stylesheet" href="assets/css/template.css">
     <link rel="stylesheet" href="assets/css/modal-tom.css">
 </head>
 
@@ -28,19 +28,25 @@
                     <a class="link" href="#home">Home</a>
                 </li>
                 <li class="item">
-                    <a class="link" href="#about">About</a>
+                    <a class="link" href="#about">Sobre mí</a>
                 </li>
                 <li class="item">
-                    <a class="link" href="#portfolio">Portfolio</a>
+                    <a class="link" href="#service">Habilidades</a>
                 </li>
                 <li class="item">
-                    <a class="link" href="#testmonial">Testmonial</a>
+                    <a class="link" href="#skills">Conocimientos</a>
                 </li>
                 <li class="item">
-                    <a class="link" href="#blog">Blog</a>
+                    <a class="link" href="#portfolio">Portafolio</a>
                 </li>
                 <li class="item">
-                    <a class="link" href="#contact">Contact</a>
+                    <a class="link" href="#experience">Experiencia</a>
+                </li>
+                <li class="item">
+                    <a class="link" href="#hobbys">Hobbys</a>
+                </li>
+                <li class="item">
+                    <a class="link" href="#contact">Contacto</a>
                 </li>
                 <!--li class="item ml-md-3">
                     <a href="components" class="btn btn-primary">Components</a>
