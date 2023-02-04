@@ -11,12 +11,17 @@
 </header><!-- end of page header -->
 
 <style>
-    
     #img-prom {
         border-radius: 50%;
         border: 30px solid #ffde59;
         width: 80%;
         height: 320px;
+    }
+    .b-text{
+        color: #ffdf00;
+    background-color: #6c757d;
+    padding: 0px 3px;
+    border-radius: 3px;
     }
 </style>
 
@@ -31,11 +36,13 @@
             </div>
             <div class="about-caption">
                 <h2 class="section-title mb-3">Sobre m&iacute;</h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid ad provident aut fuga animi soluta quae eos non cupiditate voluptates dolorem, doloremque quos dicta quibusdam impedit iure nemo a iste
-                    <br>culpa! Quasi quibusdam hic recusandae delectus velit officiis explicabo voluptatibus! Nemo esse similique, voluptates labore distinctio, placeat explicabo facilis molestias, blanditiis culpa iusto voluptatem ratione eligendi a, quia temporibus velit vero ipsa sint ex voluptatum expedita aliquid! Debitis, nam!
-                </p>
-                <button class="btn-rounded btn btn-outline-primary mt-4">Descargar CV</button>
+                <p>Me llamo <b class="b-text">Tomas Bascal</b> Estudiante de 3er año en <b>Lic. Sistemas de Información</b>
+                    <br> Tambien soy <b>Desarrollador Web Full Stack Argentino</b> con gran pasión en generar y crear nuevas herramientas y nuevos desarrollos.</p>
+                     <p>Me gusta más el <b class="b-text">FrontEnd</b> pero me llevo bien con el <b class="b-text">BackEnd</b> y <b>DB</b>.
+                     <br> Más abajo vas a encontrar algunos de mis proyectos, habilidades y hobbys.</p>
+                <a href="<?= base_url('/assets/uploads/cv/Tomas_Bascal_CV_feb2023.pdf') ?>" class="btn-rounded btn btn-outline-primary mt-4" download="Tomas Bascal CV feb2023">Descargar CV</a>
+                <a href="https://linktr.ee/tomasbascal" target="_blank" class="btn-rounded btn btn-outline-primary ml-2 mt-4">Social Media >></a>
+                <!--a href="mailto:tom.bascal@gmail.com" target="_blank" class="btn-rounded btn btn-outline-primary mt-4">Correo electrónico</a-->
             </div>
         </div><!-- end of about wrapper -->
     </div><!-- end of container -->
