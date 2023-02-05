@@ -25,13 +25,13 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active item_carrousel">
-                            <img src="<?= base_url('assets/images/project8/init.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project8/init.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
                             <img src="<?= base_url('assets/images/project8/img2.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
-                            <img src="<?= base_url('assets/images/project8/img3.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project8/img3.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
                             <img src="<?= base_url('assets/images/project8/img5.jpg') ?>" class="img_carrousel" alt="...">
@@ -40,19 +40,19 @@
                             <img src="<?= base_url('assets/images/project8/img6.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
-                            <img src="<?= base_url('assets/images/project8/img7.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project8/img7.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
-                            <img src="<?= base_url('assets/images/project8/img8.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project8/img8.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
-                            <img src="<?= base_url('assets/images/project8/img9.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project8/img9.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
-                            <img src="<?= base_url('assets/images/project8/img10.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project8/img10.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
-                            <img src="<?= base_url('assets/images/project8/img11.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project8/img11.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev control-look" type="button" data-target="#model_proj_8" data-slide="prev">

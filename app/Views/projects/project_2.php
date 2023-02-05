@@ -18,16 +18,16 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active item_carrousel">
-                            <img src="<?= base_url('assets/images/project2/init.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project2/init.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
-                            <img src="<?= base_url('assets/images/project2/img1.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project2/img1.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
-                            <img src="<?= base_url('assets/images/project2/img2.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project2/img2.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                         <div class="carousel-item item_carrousel">
-                            <img src="<?= base_url('assets/images/project2/img3.png') ?>" class="img_carrousel" alt="...">
+                            <img src="<?= base_url('assets/images/project2/img3.jpg') ?>" class="img_carrousel" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev control-look" type="button" data-target="#model_proj_2" data-slide="prev">

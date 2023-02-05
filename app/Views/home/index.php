@@ -23,6 +23,15 @@
     padding: 0px 3px;
     border-radius: 3px;
     }
+    @media only screen and (max-width: 600px) {
+        #img-prom {
+        border-radius: 50%;
+        border: 30px solid #ffde59;
+        width: 80%;
+        height: 250px;
+    }
+}
+
 </style>
 
 <!-- about section -->
