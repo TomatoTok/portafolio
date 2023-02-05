@@ -17,7 +17,7 @@
             </div>
             <div class="col-md-4">
                 <a href="#project_2" class="portfolio-card" data-toggle="modal" data-target="#project_2">
-                    <img class="portfolio-card-img" src="assets/images/project2/init.png" class="portofolio-card-img" alt="Leon from resident evil 4">
+                    <img class="portfolio-card-img" src="assets/images/project2/init.jpg" class="portofolio-card-img" alt="Leon from resident evil 4">
                     <span class="portfolio-card-overlay">
                         <span class="portfolio-card-caption">
                             <h4>Resident Evil 4 Fan Page</h4>
@@ -41,7 +41,7 @@
         <div class="row pt-3">
             <div class="col-md-4">
                 <a href="#project_4" class="portfolio-card" data-toggle="modal" data-target="#project_4">
-                    <img class="portfolio-card-img" src="assets/images/project4/init.png" class="img-responsive rounded" alt="Codigo QR">
+                    <img class="portfolio-card-img" src="assets/images/project4/init.jpg" class="img-responsive rounded" alt="Codigo QR">
                     <span class="portfolio-card-overlay">
                         <span class="portfolio-card-caption">
                             <h4>Geoposicionamiento</h4>
@@ -88,7 +88,7 @@
             </div>
             <div class="col-md-4">
                 <a href="#project_8" class="portfolio-card" data-toggle="modal" data-target="#project_8">
-                    <img class="portfolio-card-img" src="assets/images/project8/init.png" class="img-responsive rounded" alt="">
+                    <img class="portfolio-card-img" src="assets/images/project8/init.jpg" class="img-responsive rounded" alt="">
                     <span class="portfolio-card-overlay">
                         <span class="portfolio-card-caption">
                             <h4>Otros Proyectos</h4>

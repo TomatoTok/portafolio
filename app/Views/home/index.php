@@ -41,7 +41,7 @@
         <!-- about wrapper -->
         <div class="about">
             <div class="about-img-holder">
-                <img src="assets/images/man.jpg" style="border-radius: 50%;" class="about-img" id="img-prom" alt="yang wen li, The legend of the galactic heroes character">
+                <img src="assets/images/man.jpg" style="border-radius: 50%;" class="about-img" id="img-prom" alt="Tomas Bascal">
             </div>
             <div class="about-caption">
                 <h2 class="section-title mb-3">Sobre m&iacute;</h2>
