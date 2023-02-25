@@ -566,25 +566,29 @@ pre code {
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 768px) {
   .container {
     max-width: 720px;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 992px) {
   .container {
     max-width: 960px;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 1200px) {
   .container {
     max-width: 1140px;
-  }
+  transition: 0.8s;
+}
 }
 
 .container-fluid {
@@ -628,6 +632,7 @@ pre code {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+  transition: 0.8s;
 }
 
 .col {
@@ -905,7 +910,8 @@ pre code {
         -ms-flex-positive: 1;
             flex-grow: 1;
     max-width: 100%;
-  }
+  transition: 0.8s;
+}
   .col-sm-auto {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
@@ -1136,7 +1142,8 @@ pre code {
         -ms-flex-positive: 1;
             flex-grow: 1;
     max-width: 100%;
-  }
+  transition: 0.8s;
+}
   .col-md-auto {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
@@ -1598,7 +1605,8 @@ pre code {
         -ms-flex-positive: 1;
             flex-grow: 1;
     max-width: 100%;
-  }
+  transition: 0.8s;
+}
   .col-xl-auto {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 auto;
@@ -3444,40 +3452,47 @@ input[type="button"].btn-block {
   .dropdown-menu-sm-left {
     right: auto;
     left: 0;
-  }
+  transition: 0.8s;
+}
   .dropdown-menu-sm-right {
     right: 0;
     left: auto;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 768px) {
   .dropdown-menu-md-left {
     right: auto;
     left: 0;
-  }
+  transition: 0.8s;
+}
   .dropdown-menu-md-right {
     right: 0;
     left: auto;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 992px) {
   .dropdown-menu-lg-left {
     right: auto;
     left: 0;
-  }
+  transition: 0.8s;
+}
   .dropdown-menu-lg-right {
     right: 0;
     left: auto;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 1200px) {
   .dropdown-menu-xl-left {
     right: auto;
     left: 0;
-  }
+  transition: 0.8s;
+}
   .dropdown-menu-xl-right {
     right: 0;
     left: auto;
@@ -5290,11 +5305,13 @@ input[type="button"].btn-block {
             column-gap: 1.25rem;
     orphans: 1;
     widows: 1;
-  }
+  transition: 0.8s;
+}
   .card-columns .card {
     display: inline-block;
     width: 100%;
-  }
+  transition: 0.8s;
+}
 }
 
 .accordion > .card {
@@ -5968,7 +5985,8 @@ a.badge-dark:focus, a.badge-dark.focus {
     -webkit-flex-direction: row;
         -ms-flex-direction: row;
             flex-direction: row;
-  }
+  transition: 0.8s;
+}
   .list-group-horizontal-sm .list-group-item {
     margin-right: -1px;
     margin-bottom: 0;
@@ -6018,7 +6036,8 @@ a.badge-dark:focus, a.badge-dark.focus {
     -webkit-flex-direction: row;
         -ms-flex-direction: row;
             flex-direction: row;
-  }
+  transition: 0.8s;
+}
   .list-group-horizontal-lg .list-group-item {
     margin-right: -1px;
     margin-bottom: 0;
@@ -6043,7 +6062,8 @@ a.badge-dark:focus, a.badge-dark.focus {
     -webkit-flex-direction: row;
         -ms-flex-direction: row;
             flex-direction: row;
-  }
+  transition: 0.8s;
+}
   .list-group-horizontal-xl .list-group-item {
     margin-right: -1px;
     margin-bottom: 0;
@@ -6520,35 +6540,43 @@ a.close.disabled {
   .modal-dialog {
     max-width: 700px;
     margin: 1.75rem auto;
-  }
+  transition: 0.8s;
+}
   .modal-dialog-scrollable {
-    max-height: calc(100% - 3.5rem);
+  transition: 0.8s;
+  max-height: calc(100% - 3.5rem);
   }
   .modal-dialog-scrollable .modal-content {
     max-height: calc(100vh - 3.5rem);
-  }
+  transition: 0.8s;
+}
   .modal-dialog-centered {
     min-height: calc(100% - 3.5rem);
-  }
+  transition: 0.8s;
+}
   .modal-dialog-centered::before {
     height: calc(100vh - 3.5rem);
-  }
+  transition: 0.8s;
+}
   .modal-sm {
     max-width: 300px;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 992px) {
   .modal-lg,
   .modal-xl {
     max-width: 800px;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 1200px) {
   .modal-xl {
     max-width: 1140px;
-  }
+  transition: 0.8s;
+}
 }
 
 .tooltip {
@@ -10703,37 +10731,46 @@ button.bg-dark:focus {
 @media (min-width: 768px) {
   .text-md-left {
     text-align: left !important;
-  }
+  transition: 0.8s;
+}
   .text-md-right {
     text-align: right !important;
-  }
+  transition: 0.8s;
+}
   .text-md-center {
     text-align: center !important;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 992px) {
   .text-lg-left {
     text-align: left !important;
-  }
+  transition: 0.8s;
+}
   .text-lg-right {
     text-align: right !important;
-  }
+  transition: 0.8s;
+}
   .text-lg-center {
     text-align: center !important;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 1200px) {
   .text-xl-left {
     text-align: left !important;
-  }
+  transition: 0.8s;
+}
   .text-xl-right {
     text-align: right !important;
-  }
+  transition: 0.8s;
+}
   .text-xl-center {
     text-align: center !important;
-  }
+  transition: 0.8s;
+}
 }
 
 .text-lowercase {
@@ -11188,6 +11225,22 @@ p {
   visibility: visible;
 }
 
+
+@media (max-width: 767.98px) {
+  .service-card .body img.icon {
+    margin-top: 5px;
+    width: 45px;
+    margin-bottom: 15px;
+  }
+  
+  .service-card .body .subtitle {
+    bottom: 7px;
+    opacity: 1;
+    visibility: visible;
+    font-size: 0.95rem;
+  }
+}
+
 /*/ portfolio wrapper */
 .portfolio-card {
   display: block;
@@ -11249,12 +11302,19 @@ p {
   border-radius: 0;
 }
 
+.visibility-mobile{
+  visibility:hidden;
+}
+
 @media (max-width: 767.98px) {
   .portfolio-card {
     margin-bottom: 30px;
   }
   .service-card {
     margin-bottom: 30px;
+  }
+  .visibility-mobile{
+    visibility: visible;
   }
 }
 
@@ -11865,7 +11925,8 @@ pre .code {
   .custom-navbar .nav .item:nth-child(2) {
     -webkit-transition: none;
     transition: none;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 768px) {
@@ -11874,14 +11935,16 @@ pre .code {
     transition: all, 0.9s;
     -webkit-transition-delay: .4s;
             transition-delay: .4s;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 768px) and (prefers-reduced-motion: reduce) {
   .custom-navbar .nav .item:nth-child(1) {
     -webkit-transition: none;
     transition: none;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (min-width: 768px) {
@@ -11891,7 +11954,8 @@ pre .code {
             transform: translateY(0);
     opacity: 1;
     visibility: visible;
-  }
+  transition: 0.8s;
+}
 }
 
 @media (max-width: 991.98px) {
@@ -12179,7 +12243,6 @@ pre .code {
 .about-img-holder {
   min-width: 400px;
   max-width: 400px;
-  margin-right: 20px;
 }
 
 .about-img-holder .about-img {

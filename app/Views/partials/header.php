@@ -15,6 +15,8 @@
 
     <link rel="stylesheet" href="assets/css/template.css">
     <link rel="stylesheet" href="assets/css/modal-tom.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">

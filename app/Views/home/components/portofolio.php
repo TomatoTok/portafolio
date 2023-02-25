@@ -1,6 +1,7 @@
 <section class="section" id="portfolio">
     <div class="container text-center">
         <p class="section-subtitle">Mis Desarrollos</p>
+        <small class="section-subtitle visibility-mobile">(Presióna la imagen para más detalle)</small>
         <h6 class="section-title mb-6">Portfolio</h6>
         <!-- row -->
         <div class="row">
