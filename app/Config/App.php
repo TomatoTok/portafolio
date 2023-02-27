@@ -22,8 +22,9 @@ class App extends BaseConfig
      * explicitly and never rely on auto-guessing, especially in production
      * environments.
      */
-    public string $baseURL = 'http://localhost/portafolio';
-
+    public string $baseURL = 'https://tomasbascal.com/';
+    //public string $baseURL = 'http://localhost/portafolio';
+    
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
      * If you want to accept multiple Hostnames, set this.
