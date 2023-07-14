@@ -4002,6 +4002,14 @@ input[type="button"].btn-block {
   border-bottom-left-radius: 0;
 }
 
+
+.contact-input{
+  background-color: #9277ff!important;
+  color: whitesmoke;
+  font-size: larger;
+  border-radius: 15px;
+  cursor: pointer;
+}
 .custom-control {
   position: relative;
   display: block;
